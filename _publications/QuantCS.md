@@ -1,7 +1,7 @@
 ---
 title: "Sample Complexity Bounds for 1-bit Compressive Sensing and Binary Stable Embeddings with Generative Priors"
 collection: publications
-permalink: /publication/QuantCS
+permalink: /publications/QuantCS
 venue: "The 37th International Conference on Machine Learning (ICML 2020)"
 date: 2020-06-01
 citation: 'Zhaoqiang Liu, <b>Selwyn Gomes<b>, Avtansh Tiwari, Jonathan Scarlett.
