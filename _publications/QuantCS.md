@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/QuantCS
 venue: "The 37th International Conference on Machine Learning (ICML 2020)"
 date: 2020-06-01
-citation: 'Zhaoqiang Liu, <b>Selwyn Gomes<b>, Avtansh Tiwari, Jonathan Scarlett.
+citation: 'Zhaoqiang Liu, <b>Selwyn Gomes<\b>, Avtansh Tiwari, Jonathan Scarlett.
 <i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.'
 ---
 [[PDF]](https://arxiv.org/abs/2002.01697)
