@@ -17,7 +17,7 @@ I received my Bachelor’s Degree in Electronics and Instrumentation from [BITS 
 
 I am generally interested in the broad area of machine learning, particularly in deep learning. Recently, I have been exploring a number of diverse research areas and have been particularly interested in the following
 
-* Generative modeling 
+* Generative modeling.
 * Machine Learning algorithms for graph structured data.
 * Bayesian optimization and multi-armed bandits.
 
