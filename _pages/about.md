@@ -15,11 +15,11 @@ I received my Bachelor’s Degree in Electronics and Instrumentation from [BITS 
 
 ## Research Interests
 
-I am generally interested in the broad area of machine learning, particularly in deep learning. Recently, I have been exploring a number of diverse research areas and have been particularly interested in the following
+I am generally interested in the broad area of machine learning. Recently, I have been exploring a number of diverse research areas and have been particularly interested in the following
 
 * Generative modeling.
 * Machine Learning algorithms for graph structured data.
-* Bayesian optimization and multi-armed bandits.
+* Bayesian optimization, multi-armed bandits and bayesian deep learning.
 
 # Recent News
 * June 1, 2020. The paper titled "Sample Complexity Bounds for 1-bit Compressive Sensing and Binary Stable Embeddings with Generative Priors" was accepted to [ICML 2020](https://icml.cc/).
