@@ -8,7 +8,8 @@ author_profile: true
 Zhaoqiang Liu, <b>Selwyn Gomes</b>, Avtansh Tiwari, Jonathan Scarlett.
 <i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.
 <br>
+<br>
 <b>[Lenient Regret and Good-Action Identification in Gaussian Process Bandits](http://selwyn96.github.io/publications/Good_Action)</b> 
 <br> 
 Xu Cai, <b>Selwyn Gomes</b>, Jonathan Scarlett.
-<i>Under Review</i>. 
+<b>Under Review</b>. 
