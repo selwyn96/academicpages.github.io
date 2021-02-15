@@ -23,3 +23,5 @@ I am generally interested in the broad area of machine learning. Recently, I hav
 
 # Recent News
 * June 1, 2020. The paper titled "Sample Complexity Bounds for 1-bit Compressive Sensing and Binary Stable Embeddings with Generative Priors" was accepted to [ICML 2020](https://icml.cc/).
+
+* Feb 11, 2021. The paper titled "Lenient Regret and Good-Action Identification in Gaussian Process Bandits" was uploaded to arxiv. (Under Review)
